@@ -4,7 +4,7 @@
         "type": "EDGES_FULL",
         "layer": "CUTOUT",
         "textures": [
-            "tfc:blocks/stonetypes/heat_ctm"
+            "tfc:blocks/stonetypes/sand/wackestone_hot_ctm"
         ],
         "extra": {
             "connect_to": [

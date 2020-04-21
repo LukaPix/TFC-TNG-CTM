@@ -4,7 +4,8 @@
   "defaults": {
     "model": "tfc:sand/model_arkose",
     "textures": {
-      "all": "tfc:blocks/stonetypes/sand/arkose
+      "all": "tfc:blocks/stonetypes/sand/arkose"
+    }
   },
   "variants": {
     "normal": [
